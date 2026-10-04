@@ -1,0 +1,48 @@
+.container{
+  margin: auto;
+  width: 70%;
+  text-align: center;
+  background-image: url(./images/board.jpeg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-blend-mode: color-burn;
+  border: 10px solid rgba(14, 205, 230, 0.432);
+}
+
+body{
+  background-color: rgba(143, 171, 226, 0.124);
+}
+.dice{
+  text-align: center;
+  display: inline-block;
+  margin: 50px;
+  margin-bottom: 200px;
+}
+h1{
+  font-family: 'paprika', sans-serif;
+  font-size: 6rem;
+  color: rgb(12, 0, 92);
+  text-shadow: 10px 0px rgba(246, 246, 247);
+  padding-top: 50px;
+
+}
+
+p{
+  font-size: 3rem;
+  font-family: cursive;
+  word-spacing: 5px;
+  font-weight: normal;
+  color: brown;
+  text-shadow: 3px 0px white;
+}
+img{
+  width: 90%;
+  box-shadow: 5px 5px 30px rgba(247, 247, 246, 0.826);
+}
+
+footer{
+  font-size: 2rem;
+  margin-top: 50px;
+  text-align: center;
+  color: rgb(79, 5, 5);
+}
